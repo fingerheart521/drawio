@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="93CouexCpHVK_NWImTAk">
+    <mxGraphModel dx="1460" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UZudlfkvn2CpbX-pcirz-12" edge="1" parent="1" source="UZudlfkvn2CpbX-pcirz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UZudlfkvn2CpbX-pcirz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-13" edge="1" parent="1" source="UZudlfkvn2CpbX-pcirz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UZudlfkvn2CpbX-pcirz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-14" edge="1" parent="1" source="UZudlfkvn2CpbX-pcirz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UZudlfkvn2CpbX-pcirz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-15" edge="1" parent="1" source="UZudlfkvn2CpbX-pcirz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UZudlfkvn2CpbX-pcirz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-16" edge="1" parent="1" source="UZudlfkvn2CpbX-pcirz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UZudlfkvn2CpbX-pcirz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-17" edge="1" parent="1" source="UZudlfkvn2CpbX-pcirz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UZudlfkvn2CpbX-pcirz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-18" edge="1" parent="1" source="UZudlfkvn2CpbX-pcirz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UZudlfkvn2CpbX-pcirz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;用户&lt;/font&gt;" vertex="1">
+          <mxGeometry height="510" width="240" x="60" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;用户注册/登录&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="460" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;个人中心管理&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="460" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;修改物品状态&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="460" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;发表/删除评论&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="460" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;搜索/筛选物品&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="460" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;发布失物/招领&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="460" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="UZudlfkvn2CpbX-pcirz-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;浏览失物信息&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="460" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
