@@ -133,12 +133,6 @@
         <mxCell id="WZJZH5SAOD1qW-51Krsf-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;用户搜索&lt;/span&gt;" vertex="1">
           <mxGeometry height="140" width="50" x="1072" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="WZJZH5SAOD1qW-51Krsf-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="630" y="310" as="sourcePoint" />
-            <mxPoint x="680" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
